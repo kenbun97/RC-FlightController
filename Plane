@@ -3,7 +3,7 @@ Module Name: Plane.py
 Description: Controls the planes servos and ESC.
 Author: Ken Bunnell
 Date: 2026-03-22
-License: MIT
+License: GPL
 """
 from machine import Pin, PWM
 
